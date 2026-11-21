@@ -1,0 +1,17 @@
+# Root duplicate PDF (preserved in Original_Record/)
+/ECA18 OPTO LAB MANUAL.pdf
+
+# Temporary & lock files
+.~lock.*#
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
